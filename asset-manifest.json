@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LifeLong-LeArneR17/react1/static/css/main.7acaea2f.css",
+    "main.js": "/LifeLong-LeArneR17/react1/static/js/main.0227dd00.js",
+    "index.html": "/LifeLong-LeArneR17/react1/index.html",
+    "main.7acaea2f.css.map": "/LifeLong-LeArneR17/react1/static/css/main.7acaea2f.css.map",
+    "main.0227dd00.js.map": "/LifeLong-LeArneR17/react1/static/js/main.0227dd00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0227dd00.js"
+  ]
+}
